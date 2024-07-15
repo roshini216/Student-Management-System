@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:22:22:29 +0530] "GET /om/ HTTP/1.1" 200 1573
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:22:22:29 +0530] "GET /om/ HTTP/1.1" 200 1573
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:22:22:29 +0530] "GET /om/style.css HTTP/1.1" 200 1619
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:22:22:29 +0530] "GET /om/script.js HTTP/1.1" 200 2941
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:22:22:47 +0530] "POST /om/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:22:22:47 +0530] "GET /om/home.jsp HTTP/1.1" 200 6058
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:22:22:47 +0530] "GET /om/homeimg.jpeg HTTP/1.1" 200 19788
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:22:22:53 +0530] "GET /om/create.jsp HTTP/1.1" 200 5995
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:22:22:58 +0530] "GET /om/create.jsp?rollno=9&firstname=firstname&lastname=lastname&address=address&phoneno=9930024694&semester=semester&subject1=subject1&marks1=50&subject2=subject2&marks2=45&subject3=subject3&marks3=78&btn=Save HTTP/1.1" 200 6098

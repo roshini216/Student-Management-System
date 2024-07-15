@@ -1,0 +1,68 @@
+
+2023-01-03 15:07:05 Apache Commons Daemon procrun stderr initialized.
+03-Jan-2023 15:07:06.863 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.70
+03-Jan-2023 15:07:06.871 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 1 2022 14:05:47 UTC
+03-Jan-2023 15:07:06.871 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.70.0
+03-Jan-2023 15:07:06.871 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+03-Jan-2023 15:07:06.871 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+03-Jan-2023 15:07:06.871 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+03-Jan-2023 15:07:06.871 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-19
+03-Jan-2023 15:07:06.871 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           19.0.1+10-21
+03-Jan-2023 15:07:06.871 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+03-Jan-2023 15:07:06.871 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Program Files\Apache Software Foundation\Tomcat 9.0
+03-Jan-2023 15:07:06.871 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 9.0
+03-Jan-2023 15:07:06.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 9.0
+03-Jan-2023 15:07:06.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Program Files\Apache Software Foundation\Tomcat 9.0
+03-Jan-2023 15:07:06.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 9.0\temp
+03-Jan-2023 15:07:06.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+03-Jan-2023 15:07:06.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\Tomcat 9.0\conf\logging.properties
+03-Jan-2023 15:07:06.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+03-Jan-2023 15:07:06.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+03-Jan-2023 15:07:06.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+03-Jan-2023 15:07:06.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: exit
+03-Jan-2023 15:07:06.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: abort
+03-Jan-2023 15:07:06.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms128m
+03-Jan-2023 15:07:06.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx256m
+03-Jan-2023 15:07:06.918 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Apache Software Foundation\Tomcat 9.0\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Java\jdk-19\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\WINDOWS\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps;.]
+03-Jan-2023 15:07:07.324 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+03-Jan-2023 15:07:07.355 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [740] milliseconds
+03-Jan-2023 15:07:07.418 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+03-Jan-2023 15:07:07.418 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.70]
+03-Jan-2023 15:07:07.418 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\docs]
+03-Jan-2023 15:07:07.761 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\docs] has finished in [343] ms
+03-Jan-2023 15:07:07.761 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\manager]
+03-Jan-2023 15:07:07.840 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\manager] has finished in [79] ms
+03-Jan-2023 15:07:07.840 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\ROOT]
+03-Jan-2023 15:07:07.871 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\ROOT] has finished in [31] ms
+03-Jan-2023 15:07:07.871 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+03-Jan-2023 15:07:07.933 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [582] milliseconds
+03-Jan-2023 15:11:28.342 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p1_welcome]
+03-Jan-2023 15:11:28.372 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p1_welcome] has finished in [30] ms
+03-Jan-2023 15:22:59.623 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p2_welcome]
+03-Jan-2023 15:22:59.669 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p2_welcome] has finished in [46] ms
+03-Jan-2023 15:35:20.953 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p3_welcome]
+03-Jan-2023 15:35:20.984 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p3_welcome] has finished in [31] ms
+03-Jan-2023 16:15:25.861 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p4_evenodd]
+03-Jan-2023 16:15:25.892 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p4_evenodd] has finished in [31] ms
+03-Jan-2023 16:31:48.099 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p5_evenodd]
+03-Jan-2023 16:31:48.130 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p5_evenodd] has finished in [31] ms
+03-Jan-2023 23:14:54.412 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p6_sqrtfinder]
+03-Jan-2023 23:14:54.442 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p6_sqrtfinder] has finished in [30] ms
+03-Jan-2023 23:29:16.280 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p7_sqrtfinder]
+03-Jan-2023 23:29:16.311 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p7_sqrtfinder] has finished in [31] ms
+04-Jan-2023 14:34:42.195 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p8_calci]
+04-Jan-2023 14:34:42.250 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p8_calci] has finished in [55] ms
+04-Jan-2023 14:56:56.231 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p9_calciapp2]
+04-Jan-2023 14:56:56.280 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p9_calciapp2] has finished in [49] ms
+04-Jan-2023 16:01:29.136 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p10_NewsLetter]
+04-Jan-2023 16:01:29.171 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p10_NewsLetter] has finished in [35] ms
+05-Jan-2023 00:36:07.868 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\whatnextapp]
+05-Jan-2023 00:36:07.899 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\whatnextapp] has finished in [31] ms
+05-Jan-2023 00:38:48.802 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/whatnextapp]
+05-Jan-2023 00:38:48.817 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p11_whatnextapp]
+05-Jan-2023 00:38:48.853 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p11_whatnextapp] has finished in [36] ms
+05-Jan-2023 00:58:52.400 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\app]
+05-Jan-2023 00:58:52.433 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\app] has finished in [33] ms
+05-Jan-2023 01:00:43.177 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/app]
+05-Jan-2023 01:01:03.246 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p10_newsletter]
+05-Jan-2023 01:01:03.262 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\p10_newsletter] has finished in [16] ms
